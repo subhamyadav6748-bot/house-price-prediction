@@ -1,5 +1,7 @@
 # House Price Prediction
+**Live demo:** [house-price-predict-one.streamlit.app](https://house-price-predict-one.streamlit.app)
 
+> **Note:** This is a demo model trained on *simulated* data built around published 2026 asking-price benchmarks for 9 Indian cities (121 localities). Estimates are illustrative, not a market valuation. Asking prices are usually higher than final sale prices.
 An end-to-end machine-learning project that predicts house prices (in INR lakhs) from property features. It started as a 3-feature linear regression and was extended into a full pipeline: more features, preprocessing, model comparison, cross-validation, hyperparameter tuning, explainability, a prediction CLI, unit tests and a small web app.
 
 ![Model comparison](reports/figures/model_comparison.png)
